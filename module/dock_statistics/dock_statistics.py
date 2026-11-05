@@ -46,6 +46,9 @@ SIGNATURE_AREA = (140, 60, 1250, 320)
 # refusing to switch ships until it's re-entered.
 SWIPE_START_AREA = (520, 590, 540, 620)
 SWIPE_VECTOR = (-250, 0)
+# Results are kept as an archive, outside ALAS folder so they survive reinstalling ALAS.
+# Relative to ALAS root, a sibling folder of it.
+DEFAULT_OUTPUT = '../AzurLaneDock'
 # Full screenshots of every recorded ship, about 1.2MB each, 2GB for a whole dock.
 # Certificate is missing if affinity page is not opened, such as META ships.
 ARCHIVE_FOLDER = 'images'
@@ -523,7 +526,7 @@ class DockStatistics(Dock):
                 logger.info(f'Retry in {interval}s')
                 self.device.sleep(interval)
 
-    def run(self, categories=None, limit=0, ascending=False, output='./log/dock_statistics', start_game=False):
+    def run(self, categories=None, limit=0, ascending=False, output=DEFAULT_OUTPUT, start_game=False):
         """
         Args:
             categories (list[str]): Dock filter indexes to scan, default to all
@@ -540,7 +543,7 @@ class DockStatistics(Dock):
             self.game_start()
         categories = categories or CATEGORIES
         self._sampled = set()
-        self.output_dir = os.path.join(output, datetime.now().strftime('%Y%m%d_%H%M%S'))
+        self.output_dir = os.path.abspath(os.path.join(output, datetime.now().strftime('%Y%m%d_%H%M%S')))
         os.makedirs(os.path.join(self.output_dir, ARCHIVE_FOLDER), exist_ok=True)
         logger.hr('Dock statistics', level=0)
         logger.attr('Output', self.output_dir)
@@ -596,7 +599,7 @@ class DockStatistics(Dock):
         ships.jsonl, ships.csv and summary.json in the folder are overwritten.
 
         Args:
-            folder (str): Output folder of a previous run, like ./log/dock_statistics/20261105_101010
+            folder (str): Output folder of a previous run, like ../AzurLaneDock/20261105_101010
         """
         logger.hr('Dock statistics reread', level=0)
         file = os.path.join(folder, 'scan.json')
