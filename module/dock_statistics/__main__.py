@@ -19,10 +19,13 @@ parser.add_argument('--ascending', action='store_true', help='Scan from the lowe
 parser.add_argument('--output', default='./log/dock_statistics', help='Folder to save results')
 parser.add_argument('--reread', default=None, metavar='FOLDER',
                     help='Read results again from images archived in a previous run, no emulator needed')
+parser.add_argument('--start-game', action='store_true',
+                    help='Restart the game and login first, retry every 20min for 6 times if server is down')
 args = parser.parse_args()
 
 if args.reread:
     DockStatistics.reread(args.reread)
 else:
     DockStatistics(config=args.config, task='Alas').run(
-        categories=args.category, limit=args.limit, ascending=args.ascending, output=args.output)
+        categories=args.category, limit=args.limit, ascending=args.ascending, output=args.output,
+        start_game=args.start_game)

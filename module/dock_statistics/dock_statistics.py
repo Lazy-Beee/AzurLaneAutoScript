@@ -16,6 +16,9 @@ from module.dock_statistics.detail import (AFFINITY_ICON, AFFINITY_PAGE_CLOSE, A
                                            DETAIL_STABLE_AREAS, OCR_LEVEL, ShipDetail, affinity_page_appear,
                                            classify_affinity, detail_locked, parse_level, scan_affinity_page,
                                            scan_detail)
+from module.exception import GameBugError, GameNotRunningError, GamePageUnknownError, GameStuckError, \
+    GameTooManyClickError
+from module.handler.login import LoginHandler
 from module.logger import logger
 from module.retire.assets import DOCK_CHECK, SHIP_DETAIL_CHECK
 from module.retire.dock import Dock
@@ -492,18 +495,49 @@ class DockStatistics(Dock):
                 row += (s.skills + ['', '', ''])[:3]
                 writer.writerow(row)
 
-    def run(self, categories=None, limit=0, ascending=False, output='./log/dock_statistics'):
+    def game_start(self, retry=6, interval=1200):
+        """
+        Restart the game and login. Retry in case the server is still under maintenance,
+        login keeps clicking the maintenance announcement until GameTooManyClickError.
+
+        Args:
+            retry (int): Max attempts
+            interval (int, float): Seconds to wait between attempts
+
+        Pages:
+            in: Any
+            out: page_main
+        """
+        login = LoginHandler(config=self.config, device=self.device)
+        for attempt in range(1, retry + 1):
+            logger.hr(f'Game start {attempt}/{retry}', level=1)
+            try:
+                login.app_stop()
+                login.app_start()
+                return
+            except (GameStuckError, GameTooManyClickError, GameNotRunningError, GamePageUnknownError,
+                    GameBugError) as e:
+                logger.warning(f'Game start failed: {type(e).__name__}')
+                if attempt == retry:
+                    raise
+                logger.info(f'Retry in {interval}s')
+                self.device.sleep(interval)
+
+    def run(self, categories=None, limit=0, ascending=False, output='./log/dock_statistics', start_game=False):
         """
         Args:
             categories (list[str]): Dock filter indexes to scan, default to all
             limit (int): Max ships to go through per category, 0 for all
             ascending (bool): Scan from the lowest level, default to highest first
             output (str): Folder to save results, each run creates a sub folder
+            start_game (bool): Restart the game and login first, for unattended runs
 
         Pages:
             in: Any
             out: page_dock
         """
+        if start_game:
+            self.game_start()
         categories = categories or CATEGORIES
         self._sampled = set()
         self.output_dir = os.path.join(output, datetime.now().strftime('%Y%m%d_%H%M%S'))
