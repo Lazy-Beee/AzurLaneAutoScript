@@ -16,6 +16,7 @@ from module.dock_statistics.detail import (AFFINITY_ICON, AFFINITY_PAGE_CLOSE, A
                                            DETAIL_STABLE_AREAS, OCR_LEVEL, ShipDetail, affinity_page_appear,
                                            classify_affinity, detail_locked, parse_level, scan_affinity_page,
                                            scan_detail)
+from module.dock_statistics.report import generate_report
 from module.dock_statistics.ship_names import match_ship_name
 from module.exception import GameBugError, GameNotRunningError, GamePageUnknownError, GameStuckError, \
     GameTooManyClickError
@@ -579,8 +580,20 @@ class DockStatistics(Dock):
             self._archive = None
 
         summary = self.save_results(results, dock_amount, self.output_dir)
+        self.write_report(self.output_dir)
         self.dock_reset()
         return summary
+
+    @staticmethod
+    def write_report(folder):
+        """
+        Training report under folder/report. It doesn't fail the scan, run --report again after fixing.
+        """
+        try:
+            generate_report(folder)
+        except Exception as e:
+            logger.exception(e)
+            logger.warning('Failed to write report')
 
     @staticmethod
     def write_scan_record(results: Dict[str, Dict], dock_amount, folder):
@@ -657,7 +670,9 @@ class DockStatistics(Dock):
             for result in results.values():
                 for detail in result['ships']:
                     writer.write(json.dumps(asdict(detail), ensure_ascii=False) + '\n')
-        return DockStatistics.save_results(results, record['dock_amount'], folder)
+        summary = DockStatistics.save_results(results, record['dock_amount'], folder)
+        DockStatistics.write_report(folder)
+        return summary
 
     @staticmethod
     def save_results(results: Dict[str, Dict], dock_amount, folder) -> Dict:

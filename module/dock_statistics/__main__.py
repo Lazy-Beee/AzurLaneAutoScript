@@ -6,6 +6,9 @@ Usage, at ALAS root folder:
     python -m module.dock_statistics --config alas --category dd cl --limit 5
     python -m module.dock_statistics --reread ../AzurLaneDock/20261105_101010
     python -m module.dock_statistics --update-names
+    python -m module.dock_statistics --report ../AzurLaneDock/20261105_101010
+
+A scan or a reread also writes the report to <run folder>/report.
 """
 import argparse
 
@@ -25,12 +28,18 @@ parser.add_argument('--start-game', action='store_true',
                     help='Restart the game and login first, retry every 20min for 6 times if server is down')
 parser.add_argument('--update-names', action='store_true',
                     help='Download official ship names from BWIKI, used to fix ship names from OCR')
+parser.add_argument('--report', default=None, metavar='FOLDER',
+                    help='Write the training report of a previous run again, no emulator needed')
 args = parser.parse_args()
 
 if args.update_names:
     from module.dock_statistics.ship_names import update_ship_names
 
     print(f'{len(update_ship_names())} ship names saved')
+elif args.report:
+    from module.dock_statistics.report import generate_report
+
+    generate_report(args.report)
 elif args.reread:
     DockStatistics.reread(args.reread)
 else:

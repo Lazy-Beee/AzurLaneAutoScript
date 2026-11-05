@@ -10,13 +10,13 @@ import json
 import os
 import re
 from functools import lru_cache
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 SHIP_NAMES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ship_names.json')
 # 舰船图鉴, cards of all ships, each has the ship name and its censored name if any
 WIKI_URL = 'https://wiki.biligame.com/blhx/%E8%88%B0%E8%88%B9%E5%9B%BE%E9%89%B4'
 WIKI_CARD = re.compile(
-    r'<div class="jntj-1 divsort" data-param0="[^"]*" data-param1="([^"]*)" data-param2="[^"]*" '
+    r'<div class="jntj-1 divsort" data-param0="[^"]*" data-param1="([^"]*)" data-param2="([^"]*)" '
     r'data-param3="([^"]*)" data-param4="[^"]*">.*?<span class="jntj-4">(.*?)</span>', re.S)
 # Hull types on wiki of each dock filter index, ships of the same category are preferred when matching
 CATEGORY_TYPES = {
@@ -35,7 +35,7 @@ RETROFIT = re.compile(r'[.·]改$')
 WIKI_SUFFIX = re.compile(r'(?<=[一-鿿])(CV|BB|JP|DE|DOA|SSSS)$')
 # Ships not on the wiki page
 EXTRA_SHIPS = [
-    {'name': name, 'alias': [], 'type': hull, 'faction': 'hololive'}
+    {'name': name, 'alias': [], 'type': hull, 'rarity': '', 'faction': 'hololive'}
     for name, hull in [('白上吹雪', '驱逐'), ('夏色祭', '驱逐'), ('百鬼绫目', '重巡'), ('时乃空', '轻航'),
                        ('大神澪', '航母'), ('紫咲诗音', '轻航'), ('湊阿库娅', '潜艇')]
 ]
@@ -49,12 +49,12 @@ def update_ship_names(file=SHIP_NAMES_FILE) -> List[Dict]:
     resp = requests.get(WIKI_URL, headers={'User-Agent': 'Mozilla/5.0'}, timeout=30)
     resp.raise_for_status()
     ships = []
-    for hull, faction, span in WIKI_CARD.findall(resp.text):
+    for hull, rarity, faction, span in WIKI_CARD.findall(resp.text):
         # <a href=... title="长门">长门<br />鲨</a>
         span = re.sub(r'</?a[^>]*>', '', span)
         names = [html.unescape(re.sub(r'<[^>]+>', '', s)).strip() for s in re.split(r'<br\s*/?>', span)]
         ships.append({'name': WIKI_SUFFIX.sub('', names[0]), 'alias': [n for n in names[1:] if n],
-                      'type': hull.split(',')[-1], 'faction': faction})
+                      'type': hull.split(',')[-1], 'rarity': rarity, 'faction': faction})
     # Page layout changed, don't overwrite the existing list
     if len(ships) < 500:
         raise ValueError(f'Only {len(ships)} ships found on wiki, page layout may have changed')
@@ -111,6 +111,21 @@ def _closest(name, pool, same_category):
         if len(hits) == 1:
             return hits[0]
     return None
+
+
+def ship_info(name: str, category: str = '') -> Optional[Dict]:
+    """
+    Args:
+        name: Official ship name, retrofit suffix allowed
+        category: Dock filter index, tells apart ships of the same name, 天城 in 'bb' and 'cv'
+
+    Returns:
+        dict: {name, alias, type, rarity, faction} on wiki, or None
+    """
+    base, _ = _split_retrofit(name)
+    found = [s for s in load_ship_names() if s['name'] == base]
+    same = [s for s in found if s['type'] in CATEGORY_TYPES.get(category, [])]
+    return (same or found or [None])[0]
 
 
 def is_known_ship_name(name: str) -> bool:
