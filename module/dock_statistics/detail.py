@@ -28,6 +28,12 @@ OCR_EXP = Ocr(_area('DETAIL_EXP', (1120, 284, 1248, 306)), alphabet='0123456789/
 OCR_SKILL = Ocr([_area(f'DETAIL_SKILL_{i}', (x + 85, 570, x + 178, 600)) for i, x in enumerate([690, 876, 1064])],
                 letter=(115, 115, 115), threshold=64, alphabet='LEV:0123456789', name='OCR_DETAIL_SKILL')
 STARS_AREA = (300, 62, 425, 88)
+# Left edge of the gold center line of each star in STARS_AREA. Stars are right aligned, filled from the left,
+# 5-star ships have no star in the first slot.
+STAR_SLOTS = [15, 33, 50, 68, 85, 103]
+# On the center line of a filled star, rows of pale gold body and the bright gold core below it
+STAR_BODY_ROWS = slice(8, 16)
+STAR_CORE_ROWS = slice(17, 19)
 AFFINITY_AREA = (565, 95, 665, 175)
 AFFINITY_TEMPLATES = {
     'oath': TEMPLATE_AFFINITY_OATH,
@@ -223,12 +229,15 @@ def count_stars(image) -> int:
     """
     Count filled (gold) limit break stars.
     """
-    gold = color_similarity_2d(crop(image, STARS_AREA), color=STAR_GOLD) > 200
-    columns = np.concatenate([[0], gold.sum(axis=0) > 2, [0]]).astype(int)
-    # Center of a star is 2-3px wide, gold painting behind the stars leaves 1px noise
-    edges = np.diff(columns)
-    widths = np.flatnonzero(edges == -1) - np.flatnonzero(edges == 1)
-    return int(np.sum(widths >= 2))
+    similarity = color_similarity_2d(crop(image, STARS_AREA), color=STAR_GOLD)
+    count = 0
+    # Stars are translucent, gold painting behind them shows through, so check the profile of the center line
+    # instead of counting gold columns. Empty stars are dark on the center line.
+    for slot in STAR_SLOTS:
+        line = similarity[:, slot:slot + 2].min(axis=1)
+        if np.all(line[STAR_BODY_ROWS] > 150) and np.all(line[STAR_CORE_ROWS] > 200):
+            count += 1
+    return count
 
 
 def parse_level(level: int) -> int:

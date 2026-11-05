@@ -439,8 +439,8 @@ class DockStatistics(Dock):
             }
             report['scanned'] += len(seen)
             report['locked'] += len(result['ships'])
-            # Oathed META ships show the oath icon, tell them by name
-            report['meta'] += sum(1 for s in result['ships'] if s.name.endswith('META'))
+            # Oathed META ships show the oath icon, tell them by name. "META" in name may be lost in OCR.
+            report['meta'] += sum(1 for s in result['ships'] if s.name.endswith('META') or s.affinity == 'resonance')
         if dock_amount:
             # META ships don't take dock space
             report['amount_match'] = report['scanned'] - report['meta'] == dock_amount
