@@ -8,6 +8,7 @@ from module.base.button import Button
 from module.base.template import Template
 from module.base.utils import color_similarity_2d, crop
 from module.dock_statistics.assets import *
+from module.dock_statistics.ship_names import is_known_ship_name
 from module.ocr.ocr import Digit, Ocr
 
 # Areas are measured on CN server, ship detail page, "detail" tab of the side navbar.
@@ -112,10 +113,12 @@ class ShipDetail:
             list[str]: Fields that look unrecognized
         """
         problems = []
-        if not self.name:
+        if not self.name or not is_known_ship_name(self.name):
             problems.append('name')
         if not 1 <= self.level <= 125:
             problems.append('level')
+        if not self.exp:
+            problems.append('exp')
         if not 1 <= self.stars <= 6:
             problems.append('stars')
         if self.affinity == 'unknown':
@@ -148,30 +151,40 @@ def normalize_name(name: str) -> str:
         女灶神META -> 女灶神·META
     """
     # Leading dot shows when a long name gets cut, ·加利索尼埃·META
-    name = name.strip().strip('_-.,，一—·()（）、`\'"')
+    name = name.strip().strip('_-.,，一—―·()（）、丶`\\\'"')
+    # Painting edges next to the name, i小海伦娜, f博格, 小\企业, 前_卫
+    name = re.sub(r'^[a-z](?=[一-鿿A-Z])', '', name)
+    name = re.sub(r'^小[丶\\]+', '小', name)
+    name = name.replace('_', '')
+    # 咲 is always read as 呋, 海呋 -> 海咲
+    name = name.replace('呋', '咲')
     name = re.sub(r'([一-鿿])[lI1|‖]+$', r'\1II', name)
     name = re.sub(r'·([A-Z])([一-鿿])', r'·\1·\2', name)
     # Long META names get cut, 加利索尼埃ME -> 加利索尼埃·META
     name = re.sub(r'([一-鿿])·?M(E(TA?)?)?$', r'\1·META', name)
+    # μ is read as "u" or lost, closing bracket is stripped above, 塔什干(u兵装 -> 塔什干(μ兵装)
+    name = re.sub(r'\([uμ]?兵装?$', '(μ兵装)', name)
     return name
 
 
 def parse_exp(text: str) -> str:
     """
     Args:
-        text: OCR result like "1487893/M8X" or "1500/2600"
+        text: OCR result like "1487893/M8X" or "1500/2600".
+            "Max" is in lowercase on game, over bright paintings the slash before it may be lost or read as "4",
+            and a leading "M" may show up: "14215574M8X", "2871747/4M8X", "M0/M8X"
 
     Returns:
         str: "1487893/MAX", "1500/2600", or "" if unrecognized
     """
-    res = re.match(r'^(\d+)/(.+)$', text)
-    if not res:
-        return ''
-    current, total = res.groups()
-    if total.startswith('M'):
-        return f'{current}/MAX'
-    total = re.sub(r'\D', '', total)
-    return f'{current}/{total}' if total else ''
+    text = re.sub(r'^\D+', '', text)
+    if 'M' in text:
+        current = re.match(r'\d*', text).group()
+        if '/' not in text and current.endswith('4'):
+            current = current[:-1]
+        return f'{current}/MAX' if current else ''
+    res = re.match(r'^(\d+)/(\d+)$', text)
+    return f'{res.group(1)}/{res.group(2)}' if res else ''
 
 
 def parse_skill(text: str) -> int:
@@ -369,7 +382,7 @@ def scan_detail(image, category='', index=0) -> ShipDetail:
         in: SHIP_DETAIL_CHECK, detail tab
     """
     skills = OCR_SKILL.ocr(image, direct_ocr=False)
-    return ShipDetail(
+    detail = ShipDetail(
         category=category,
         index=index,
         name=normalize_name(OCR_NAME.ocr(image, direct_ocr=False)),
@@ -380,3 +393,8 @@ def scan_detail(image, category='', index=0) -> ShipDetail:
         affinity=classify_affinity(image),
         skills=[parse_skill(s) for s in skills],
     )
+    # Only META ships show resonance, "META" at the end of long names may be cut or lost.
+    #   希佩尔海军上将·N -> 希佩尔海军上将·META
+    if detail.affinity == 'resonance' and not detail.name.endswith('META'):
+        detail.name = re.sub(r'·[^·]{0,2}$', '', detail.name) + '·META'
+    return detail

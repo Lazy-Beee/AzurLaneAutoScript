@@ -16,6 +16,7 @@ from module.dock_statistics.detail import (AFFINITY_ICON, AFFINITY_PAGE_CLOSE, A
                                            DETAIL_STABLE_AREAS, OCR_LEVEL, ShipDetail, affinity_page_appear,
                                            classify_affinity, detail_locked, parse_level, scan_affinity_page,
                                            scan_detail)
+from module.dock_statistics.ship_names import match_ship_name
 from module.exception import GameBugError, GameNotRunningError, GamePageUnknownError, GameStuckError, \
     GameTooManyClickError
 from module.handler.login import LoginHandler
@@ -54,6 +55,8 @@ DEFAULT_OUTPUT = '../AzurLaneDock'
 ARCHIVE_FOLDER = 'images'
 ARCHIVE_DETAIL = '{category}_{index:03d}_detail.png'
 ARCHIVE_AFFINITY = '{category}_{index:03d}_affinity.png'
+# Fields corrected by hand, applied when re-reading
+MANUAL_FILE = 'manual.json'
 
 
 def _area_diff(image1, image2, area):
@@ -395,6 +398,7 @@ class DockStatistics(Dock):
                 # META ships show resonance instead, their affinity page is not handled
                 if detail.affinity != 'resonance':
                     self.affinity_page_read(detail)
+                detail.name = match_ship_name(detail.name, category)
                 problems = detail.problems()
                 if problems:
                     self._save_sample(f'problem_{category}_{index}', problems)
@@ -597,6 +601,7 @@ class DockStatistics(Dock):
         """
         Read ships again from archived images, after parsers are improved.
         ships.jsonl, ships.csv and summary.json in the folder are overwritten.
+        Fields corrected by hand in manual.json are applied after reading, like {"dd_038": {"name": "枨"}}.
 
         Args:
             folder (str): Output folder of a previous run, like ../AzurLaneDock/20261105_101010
@@ -609,6 +614,11 @@ class DockStatistics(Dock):
         else:
             logger.warning('No scan.json, verify with archived images only')
             record = {'dock_amount': 0, 'categories': {}}
+        file = os.path.join(folder, MANUAL_FILE)
+        manual = {}
+        if os.path.exists(file):
+            with open(file, encoding='utf-8') as f:
+                manual = json.load(f)
 
         def image(name, category, index):
             file = os.path.join(folder, ARCHIVE_FOLDER, name.format(category=category, index=index))
@@ -626,6 +636,13 @@ class DockStatistics(Dock):
                 affinity = image(ARCHIVE_AFFINITY, category, index)
                 if affinity is not None:
                     detail.apply_affinity_page(*scan_affinity_page(affinity))
+                detail.name = match_ship_name(detail.name, category)
+                for key, value in manual.get(f'{category}_{index:03d}', {}).items():
+                    if not hasattr(detail, key):
+                        logger.warning(f'Unknown field in {MANUAL_FILE}: {category}_{index:03d}.{key}')
+                        continue
+                    logger.info(f'Manual {key}: {getattr(detail, key)} -> {value}')
+                    setattr(detail, key, value)
                 logger.info(f'[{category} #{index}] {detail.name} Lv.{detail.level} '
                             f'affinity={detail.affinity}:{detail.affinity_value}')
                 ships.append(detail)

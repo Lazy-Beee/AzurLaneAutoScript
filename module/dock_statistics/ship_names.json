@@ -1,0 +1,6720 @@
+[
+ {
+  "name": "特装型布里MKIII",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "其他"
+ },
+ {
+  "name": "威廉·D·波特",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "新泽西",
+  "alias": [
+   "花园"
+  ],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "前卫",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "狮",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "武藏",
+  "alias": [
+   "鳄"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "信浓",
+  "alias": [
+   "鵗"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "岛风",
+  "alias": [
+   "芒"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "苏维埃同盟",
+  "alias": [
+   "苏维埃萨尤斯"
+  ],
+  "type": "战列",
+  "faction": "北方联合"
+ },
+ {
+  "name": "乌尔里希·冯·胡滕",
+  "alias": [
+   "乌尔里克·冯·胡贝尔"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "喀琅施塔得",
+  "alias": [],
+  "type": "超巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "约克城II",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "怨仇",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "俾斯麦Zwei",
+  "alias": [
+   "奥德莉亚Zwei"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "云仙",
+  "alias": [
+   "猃"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "拉菲II",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "关岛",
+  "alias": [],
+  "type": "超巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "阿尔萨斯",
+  "alias": [],
+  "type": "战列",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "莫加多尔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "天城",
+  "alias": [
+   "鳐"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "弗里茨·鲁梅",
+  "alias": [
+   "菲莉西娅·鲁梅"
+  ],
+  "type": "航母",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z52",
+  "alias": [
+   "柯妮"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "拉斐尔",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "特拉法尔加",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "白凤",
+  "alias": [
+   "䳆"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "伊404",
+  "alias": [
+   "诗玲寺"
+  ],
+  "type": "潜母",
+  "faction": "重樱"
+ },
+ {
+  "name": "列克星敦II",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "莫斯科",
+  "alias": [],
+  "type": "重巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "葛兹·冯·伯利欣根",
+  "alias": [
+   "戈达·冯·贝格海姆"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "U-2501",
+  "alias": [
+   "优妮可欧伊"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "虎",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "安土",
+  "alias": [
+   "鮟"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "吾妻",
+  "alias": [
+   "猉"
+  ],
+  "type": "超巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "腓特烈大帝",
+  "alias": [
+   "腓德雷卡大帝"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "德雷克",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "白龙",
+  "alias": [
+   "鹫"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "埃吉尔",
+  "alias": [
+   "埃格妮丝"
+  ],
+  "type": "超巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "普利茅斯",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "布雷斯特",
+  "alias": [],
+  "type": "超巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "奇尔沙治",
+  "alias": [],
+  "type": "航战",
+  "faction": "白鹰"
+ },
+ {
+  "name": "兴登堡",
+  "alias": [
+   "希尔德加德"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "那不勒斯",
+  "alias": [],
+  "type": "重巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "纳希莫夫海军上将",
+  "alias": [],
+  "type": "航母",
+  "faction": "北方联合"
+ },
+ {
+  "name": "梅克伦堡",
+  "alias": [
+   "梅克琳达"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "金狮",
+  "alias": [],
+  "type": "重巡",
+  "faction": "郁金王国"
+ },
+ {
+  "name": "马克斯·殷麦曼",
+  "alias": [
+   "玛克西米莉安·伊梅拉"
+  ],
+  "type": "航母",
+  "faction": "铁血"
+ },
+ {
+  "name": "瓦尔帕莱索",
+  "alias": [],
+  "type": "战列",
+  "faction": "晶环联盟"
+ },
+ {
+  "name": "试作型布里MKII",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "其他"
+ },
+ {
+  "name": "埃尔德里奇",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "圣地亚哥",
+  "alias": [
+   "圣戴安娜"
+  ],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "巴尔的摩",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "北卡罗来纳",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "华盛顿",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "南达科他",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "印第安纳",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "企业",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "黛朵",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "贝尔法斯特",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "胡德",
+  "alias": [],
+  "type": "战巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "厌战",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "英王乔治五世",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "威尔士亲王",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "约克公爵",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "光辉",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "胜利",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "可畏",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "夕立",
+  "alias": [
+   "椿"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "雪风",
+  "alias": [
+   "莲"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "天津风",
+  "alias": [
+   "菡"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "筑摩",
+  "alias": [
+   "狘"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "高雄",
+  "alias": [
+   "獒"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "爱宕",
+  "alias": [
+   "犬"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "摩耶",
+  "alias": [
+   "犮"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "鸟海",
+  "alias": [
+   "猋"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "长门",
+  "alias": [
+   "鲨"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "纪伊",
+  "alias": [
+   "鲣"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "土佐",
+  "alias": [
+   "䲠"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "瑞凤",
+  "alias": [
+   "鹳"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "赤城",
+  "alias": [
+   "凰"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "加贺",
+  "alias": [
+   "鸾"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "翔鹤",
+  "alias": [
+   "鹬"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "瑞鹤",
+  "alias": [
+   "鹤"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "大凤",
+  "alias": [
+   "鹩"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "明石",
+  "alias": [
+   "茗"
+  ],
+  "type": "维修",
+  "faction": "重樱"
+ },
+ {
+  "name": "布吕歇尔",
+  "alias": [
+   "布丽吉特"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "欧根亲王",
+  "alias": [
+   "萨沃伊亲王"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "俾斯麦",
+  "alias": [
+   "奥德莉亚"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "提尔比茨",
+  "alias": [
+   "阿尔芙莉达"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "齐柏林伯爵",
+  "alias": [
+   "海拉伯爵"
+  ],
+  "type": "航母",
+  "faction": "铁血"
+ },
+ {
+  "name": "阿芙乐尔",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "Z46",
+  "alias": [
+   "希露"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "江风",
+  "alias": [
+   "茳"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "三笠",
+  "alias": [
+   "鲐"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "能代",
+  "alias": [
+   "貅"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "酒匂",
+  "alias": [
+   "貄"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "蒙彼利埃",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "伊19",
+  "alias": [
+   "衣玖"
+  ],
+  "type": "潜艇",
+  "faction": "重樱"
+ },
+ {
+  "name": "U-81",
+  "alias": [
+   "优哈依"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "U-47",
+  "alias": [
+   "优希娜"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "凯旋",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "让·巴尔",
+  "alias": [
+   "简·布罗伊"
+  ],
+  "type": "战列",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "马萨诸塞",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "半人马",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "埃塞克斯",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "大青花鱼",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "明尼阿波利斯",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "天城",
+  "alias": [
+   "鳐"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "加贺",
+  "alias": [
+   "鸾"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "天狼星",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "香格里拉",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "邦克山",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "伊13",
+  "alias": [
+   "十纱"
+  ],
+  "type": "潜母",
+  "faction": "重樱"
+ },
+ {
+  "name": "确捷",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "恶毒",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "伊168",
+  "alias": [
+   "伊吕波"
+  ],
+  "type": "潜艇",
+  "faction": "重樱"
+ },
+ {
+  "name": "U-101",
+  "alias": [
+   "优伊欧伊"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "阿拉巴马",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "棘鳍",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "利托里奥",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "扎拉",
+  "alias": [
+   "扎达尔"
+  ],
+  "type": "重巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "加斯科涅(μ兵装)",
+  "alias": [],
+  "type": "战列",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "赤城(μ兵装)",
+  "alias": [
+   "凰(μ兵装)"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "骏河",
+  "alias": [
+   "鲪"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "龙凤",
+  "alias": [
+   "鸗"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "塔什干",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "基洛夫",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "恰巴耶夫",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "苏维埃贝拉罗斯",
+  "alias": [],
+  "type": "战列",
+  "faction": "北方联合"
+ },
+ {
+  "name": "苏维埃罗西亚",
+  "alias": [],
+  "type": "战列",
+  "faction": "北方联合"
+ },
+ {
+  "name": "无畏",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "布莱默顿",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "里诺",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "黎塞留",
+  "alias": [],
+  "type": "战列",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "圣女贞德",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "阿尔及利亚",
+  "alias": [],
+  "type": "重巡",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "豪",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "英仙座",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "赫敏",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "U-96",
+  "alias": [
+   "优玖露"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "凉月",
+  "alias": [
+   "栎"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "大凤(μ兵装)",
+  "alias": [
+   "鹩(μ兵装)"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "塔什干(μ兵装)",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "黛朵(μ兵装)",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "罗恩(μ兵装)",
+  "alias": [
+   "艾伯塔(μ兵装)"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "光辉(μ兵装)",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "恶毒(μ兵装)",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "彼得·史特拉塞",
+  "alias": [
+   "佩特菈·斯坦贝瑟"
+  ],
+  "type": "航母",
+  "faction": "铁血"
+ },
+ {
+  "name": "海因里希亲王",
+  "alias": [
+   "赫莉米娜亲王"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "U-37",
+  "alias": [
+   "优米娜"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "波拉",
+  "alias": [],
+  "type": "重巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "塔林",
+  "alias": [],
+  "type": "重巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "维托里奥·维内托",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "阿布鲁齐公爵",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "天鹰",
+  "alias": [],
+  "type": "航母",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "艾伦·萨姆纳",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "提康德罗加",
+  "alias": [
+   "卡莉永"
+  ],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "旧金山",
+  "alias": [
+   "雾城"
+  ],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "射水鱼",
+  "alias": [
+   "喷水鱼"
+  ],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "风云",
+  "alias": [
+   "枟"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "英格拉罕",
+  "alias": [
+   "格拉哈姆"
+  ],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "葛城",
+  "alias": [
+   "鹖"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "新奥尔良",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "可怖",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "马格德堡",
+  "alias": [
+   "马格达莱娜"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "阿达尔伯特亲王",
+  "alias": [
+   "阿德莉娅亲王"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "卡律布狄斯",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "布里斯托尔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "基辅",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "伏尔加",
+  "alias": [],
+  "type": "航母",
+  "faction": "北方联合"
+ },
+ {
+  "name": "帝国",
+  "alias": [],
+  "type": "航母",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "庞培·马格诺",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "塞德利茨",
+  "alias": [
+   "桑德菈"
+  ],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "吕佐夫",
+  "alias": [
+   "露西"
+  ],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "埃姆登",
+  "alias": [
+   "埃玛"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "贾维斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "不挠",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "霞飞",
+  "alias": [],
+  "type": "航母",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "不屈",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "莱昂纳多·达·芬奇",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "朱塞佩·加里波第",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "罗马",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "布伦希尔德",
+  "alias": [
+   "贝尔莎"
+  ],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "若月",
+  "alias": [
+   "若"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "雅努斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿尔比恩",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "皇家财富号",
+  "alias": [],
+  "type": "风帆S",
+  "faction": "飓风"
+ },
+ {
+  "name": "大黄蜂II",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "北安普敦II",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "古比雪夫",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "忒修斯",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "皇家橡树",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "斯库拉",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "库尔斯克",
+  "alias": [],
+  "type": "重巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "伏罗希洛夫",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "奥托·冯·阿尔文斯莱本",
+  "alias": [
+   "奥莉薇娅·冯·阿诺德"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "雷根斯堡",
+  "alias": [
+   "瑞吉娜"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "阿蒂利奥·雷戈洛",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "戈里齐亚",
+  "alias": [],
+  "type": "重巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "马赛曲",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "伴尔维",
+  "alias": [],
+  "type": "航母",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "吉尚",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "克莱蒙梭",
+  "alias": [],
+  "type": "战列",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "尾张",
+  "alias": [
+   "鳂"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "初月",
+  "alias": [
+   "檚"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "休斯敦II",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "金鹿号",
+  "alias": [],
+  "type": "风帆V",
+  "faction": "飓风"
+ },
+ {
+  "name": "玛丽·西莱斯特号",
+  "alias": [],
+  "type": "风帆S",
+  "faction": "飓风"
+ },
+ {
+  "name": "圣马丁号",
+  "alias": [],
+  "type": "风帆M",
+  "faction": "飓风"
+ },
+ {
+  "name": "星座",
+  "alias": [],
+  "type": "战巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "松鲷",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "寰昌",
+  "alias": [],
+  "type": "战巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "火力",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "努比亚人",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "可畏(μ兵装)",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "欧根亲王(μ兵装)",
+  "alias": [
+   "萨沃伊亲王(μ兵装)"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "能代(μ兵装)",
+  "alias": [
+   "貅(μ兵装)"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "腓特烈·卡尔",
+  "alias": [
+   "腓德雷卡·卡尔"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "布伦努斯",
+  "alias": [],
+  "type": "重巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "亚尔薇特",
+  "alias": [],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z47",
+  "alias": [
+   "希娜"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "斯特拉斯堡",
+  "alias": [],
+  "type": "战巡",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "果敢",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "匹兹堡",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "法戈",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "渡良濑",
+  "alias": [
+   "獭"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "冈依沙瓦号",
+  "alias": [],
+  "type": "风帆M",
+  "faction": "飓风"
+ },
+ {
+  "name": "幻想号",
+  "alias": [],
+  "type": "风帆V",
+  "faction": "飓风"
+ },
+ {
+  "name": "和睦号",
+  "alias": [],
+  "type": "风帆S",
+  "faction": "飓风"
+ },
+ {
+  "name": "杜伊斯堡",
+  "alias": [
+   "多琳妮娅"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "建武",
+  "alias": [],
+  "type": "重巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "巴拉卡少校",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "富兰克林",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "圣塔菲",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "喀山",
+  "alias": [],
+  "type": "战列",
+  "faction": "北方联合"
+ },
+ {
+  "name": "七省",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "郁金王国"
+ },
+ {
+  "name": "克利奥佩特拉",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "曾克海军上将",
+  "alias": [
+   "泽特"
+  ],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "U-552",
+  "alias": [
+   "优可可妮"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "马塞纳",
+  "alias": [],
+  "type": "战巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "贝劳森林",
+  "alias": [],
+  "type": "轻航",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "大胆",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "近江",
+  "alias": [
+   "鳉"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "浅间",
+  "alias": [
+   "猏"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "安妮女王复仇号",
+  "alias": [],
+  "type": "风帆M",
+  "faction": "飓风"
+ },
+ {
+  "name": "莱姆号",
+  "alias": [],
+  "type": "风帆V",
+  "faction": "飓风"
+ },
+ {
+  "name": "珍珠号",
+  "alias": [],
+  "type": "风帆M",
+  "faction": "飓风"
+ },
+ {
+  "name": "科本斯",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "弗朗西斯科·卡拉乔洛",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "藤波",
+  "alias": [
+   "藤"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "彰武",
+  "alias": [],
+  "type": "重巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "顽皮",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "云龙",
+  "alias": [
+   "靇"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "莫里茨亲王",
+  "alias": [
+   "莫琳亲王"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "瑟堡",
+  "alias": [],
+  "type": "超巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "阿罗芒什",
+  "alias": [],
+  "type": "轻航",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "华丽",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "萨里",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "柯莱特",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "维克斯堡",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "本宁顿",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "伊14",
+  "alias": [
+   "十诗"
+  ],
+  "type": "潜母",
+  "faction": "重樱"
+ },
+ {
+  "name": "铁角号",
+  "alias": [],
+  "type": "风帆S",
+  "faction": "飓风"
+ },
+ {
+  "name": "水星号",
+  "alias": [],
+  "type": "风帆V",
+  "faction": "飓风"
+ },
+ {
+  "name": "塞利米耶号",
+  "alias": [],
+  "type": "风帆M",
+  "faction": "飓风"
+ },
+ {
+  "name": "绀紫之心",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "海王星"
+ },
+ {
+  "name": "圣黑之心",
+  "alias": [],
+  "type": "重巡",
+  "faction": "海王星"
+ },
+ {
+  "name": "群白之心",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "海王星"
+ },
+ {
+  "name": "翡绿之心",
+  "alias": [],
+  "type": "航母",
+  "faction": "海王星"
+ },
+ {
+  "name": "久远",
+  "alias": [],
+  "type": "重巡",
+  "faction": "传颂之物"
+ },
+ {
+  "name": "猫音",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "传颂之物"
+ },
+ {
+  "name": "露露缇耶",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "传颂之物"
+ },
+ {
+  "name": "绊爱·Elegant",
+  "alias": [],
+  "type": "重巡",
+  "faction": "KizunaAI"
+ },
+ {
+  "name": "绊爱·Anniversary",
+  "alias": [],
+  "type": "航母",
+  "faction": "KizunaAI"
+ },
+ {
+  "name": "绊爱·SuperGamer",
+  "alias": [],
+  "type": "战列",
+  "faction": "KizunaAI"
+ },
+ {
+  "name": "玛莉萝丝",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "穗香",
+  "alias": [],
+  "type": "战列",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "霞",
+  "alias": [],
+  "type": "重巡",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "海咲",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "露娜",
+  "alias": [],
+  "type": "轻航",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "环",
+  "alias": [],
+  "type": "战巡",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "天海春香",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "偶像大师"
+ },
+ {
+  "name": "如月千早",
+  "alias": [],
+  "type": "航母",
+  "faction": "偶像大师"
+ },
+ {
+  "name": "水濑伊织",
+  "alias": [],
+  "type": "战列",
+  "faction": "偶像大师"
+ },
+ {
+  "name": "三浦梓",
+  "alias": [],
+  "type": "重巡",
+  "faction": "偶像大师"
+ },
+ {
+  "name": "宝多六花",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "SSSS"
+ },
+ {
+  "name": "新条茜",
+  "alias": [],
+  "type": "战列",
+  "faction": "SSSS"
+ },
+ {
+  "name": "南梦芽",
+  "alias": [],
+  "type": "重巡",
+  "faction": "SSSS"
+ },
+ {
+  "name": "飞鸟川千濑",
+  "alias": [],
+  "type": "航母",
+  "faction": "SSSS"
+ },
+ {
+  "name": "第二代",
+  "alias": [],
+  "type": "航战",
+  "faction": "SSSS"
+ },
+ {
+  "name": "公主",
+  "alias": [],
+  "type": "运输",
+  "faction": "SSSS"
+ },
+ {
+  "name": "莱莎琳·斯托特",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "Atelier Ryza"
+ },
+ {
+  "name": "科洛蒂娅·巴兰茨",
+  "alias": [],
+  "type": "轻航",
+  "faction": "Atelier Ryza"
+ },
+ {
+  "name": "帕特莉夏·阿贝尔海姆",
+  "alias": [],
+  "type": "战列",
+  "faction": "Atelier Ryza"
+ },
+ {
+  "name": "卡菈·伊迪亚斯",
+  "alias": [],
+  "type": "超巡",
+  "faction": "Atelier Ryza"
+ },
+ {
+  "name": "飞鸟",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "闪乱神乐NL"
+ },
+ {
+  "name": "斑鸠",
+  "alias": [],
+  "type": "重巡",
+  "faction": "闪乱神乐NL"
+ },
+ {
+  "name": "焰",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "闪乱神乐NL"
+ },
+ {
+  "name": "雪泉",
+  "alias": [],
+  "type": "航母",
+  "faction": "闪乱神乐NL"
+ },
+ {
+  "name": "雪不归",
+  "alias": [],
+  "type": "战列",
+  "faction": "闪乱神乐NL"
+ },
+ {
+  "name": "菈菈·撒塔琳·戴比路克",
+  "alias": [],
+  "type": "重巡",
+  "faction": "To LOVE-Ru"
+ },
+ {
+  "name": "娜娜·阿丝达·戴比路克",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "To LOVE-Ru"
+ },
+ {
+  "name": "梦梦·贝莉雅·戴比路克",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "To LOVE-Ru"
+ },
+ {
+  "name": "金色暗影",
+  "alias": [],
+  "type": "战列",
+  "faction": "To LOVE-Ru"
+ },
+ {
+  "name": "BLACK★ROCK SHOOTER",
+  "alias": [],
+  "type": "战巡",
+  "faction": "BLACK★ROCK SHOOTER"
+ },
+ {
+  "name": "DEAD MASTER",
+  "alias": [],
+  "type": "航母",
+  "faction": "BLACK★ROCK SHOOTER"
+ },
+ {
+  "name": "优米雅·利斯菲尔德",
+  "alias": [],
+  "type": "轻航",
+  "faction": "Atelier Yumia"
+ },
+ {
+  "name": "艾菈·冯·杜勒",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "Atelier Yumia"
+ },
+ {
+  "name": "妮娜·弗里德",
+  "alias": [],
+  "type": "战列",
+  "faction": "Atelier Yumia"
+ },
+ {
+  "name": "蕾妮雅",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "Atelier Yumia"
+ },
+ {
+  "name": "赫斯缇雅",
+  "alias": [],
+  "type": "维修",
+  "faction": "DanMachiV"
+ },
+ {
+  "name": "琉·璃昂",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "DanMachiV"
+ },
+ {
+  "name": "夜刀神十香",
+  "alias": [],
+  "type": "重巡",
+  "faction": "DateALiveV"
+ },
+ {
+  "name": "鸢一折纸",
+  "alias": [],
+  "type": "航母",
+  "faction": "DateALiveV"
+ },
+ {
+  "name": "五河琴里",
+  "alias": [],
+  "type": "战列",
+  "faction": "DateALiveV"
+ },
+ {
+  "name": "四糸乃",
+  "alias": [],
+  "type": "轻航",
+  "faction": "DateALiveV"
+ },
+ {
+  "name": "时崎狂三",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "DateALiveV"
+ },
+ {
+  "name": "八舞耶倶矢·八舞夕弦",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "DateALiveV"
+ },
+ {
+  "name": "A2",
+  "alias": [],
+  "type": "重巡",
+  "faction": "NieRAutomata"
+ },
+ {
+  "name": "2B",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "NieRAutomata"
+ },
+ {
+  "name": "伊莉丝",
+  "alias": [],
+  "type": "航母",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "雫",
+  "alias": [],
+  "type": "战列",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "香迪",
+  "alias": [],
+  "type": "重巡",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "筑紫",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "派蒂",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "千乃",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "飞龙·META",
+  "alias": [
+   "龙·META"
+  ],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "皇家方舟·META",
+  "alias": [],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "海伦娜·META",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "苍龙·META",
+  "alias": [
+   "蛟·META"
+  ],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "格奈森瑙·META",
+  "alias": [
+   "奥古斯塔·META"
+  ],
+  "type": "战巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "沙恩霍斯特·META",
+  "alias": [
+   "格尔林德·META"
+  ],
+  "type": "战巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "反击·META",
+  "alias": [],
+  "type": "战巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "声望·META",
+  "alias": [],
+  "type": "战巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "亚利桑那·META",
+  "alias": [],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "伊丽莎白女王·META",
+  "alias": [],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "U-556·META",
+  "alias": [
+   "优可可洛·META"
+  ],
+  "type": "潜艇",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "阿尔及利亚·META",
+  "alias": [],
+  "type": "重巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "神通·META",
+  "alias": [
+   "貎·META"
+  ],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "基洛夫·META",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "水星纪念·META",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "罗德尼·META",
+  "alias": [],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "贝亚恩·META",
+  "alias": [],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "威奇塔·META",
+  "alias": [],
+  "type": "重巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "长门·META",
+  "alias": [
+   "鲨·META"
+  ],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "比叡·META",
+  "alias": [
+   "鲟·META"
+  ],
+  "type": "战巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "大凤·META",
+  "alias": [
+   "鹩·META"
+  ],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "希佩尔海军上将·META",
+  "alias": [
+   "芙兰希卡·META"
+  ],
+  "type": "重巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "安德烈亚·多利亚·META",
+  "alias": [],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "大黄蜂·META",
+  "alias": [],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "光荣·META",
+  "alias": [],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "江风·META",
+  "alias": [
+   "茳·META"
+  ],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "夕立·META",
+  "alias": [
+   "椿·META"
+  ],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "约克城·META",
+  "alias": [],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "克利夫兰·META",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "甘古特·META",
+  "alias": [],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "雷根斯堡·META",
+  "alias": [
+   "瑞吉娜·META"
+  ],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "易北·META",
+  "alias": [
+   "埃尔斯贝特·META"
+  ],
+  "type": "轻航",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "布里斯托尔·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "萨拉托加·META",
+  "alias": [],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "胜利·META",
+  "alias": [],
+  "type": "航母",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "海王星",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "君主",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "伊吹",
+  "alias": [
+   "峦"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "出云",
+  "alias": [
+   "侌"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "罗恩",
+  "alias": [
+   "艾伯塔"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "路易九世",
+  "alias": [],
+  "type": "重巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "西雅图",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "佐治亚",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "北风",
+  "alias": [
+   "苝"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "加斯科涅",
+  "alias": [],
+  "type": "战列",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "柴郡",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "美因茨",
+  "alias": [
+   "米兹"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "奥丁",
+  "alias": [
+   "沃登"
+  ],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "香槟",
+  "alias": [],
+  "type": "战列",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "安克雷奇",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "奥古斯特·冯·帕塞瓦尔",
+  "alias": [
+   "奥斯特雷德·冯·帕赫贝尔"
+  ],
+  "type": "航母",
+  "faction": "铁血"
+ },
+ {
+  "name": "马可·波罗",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "鲁普雷希特亲王",
+  "alias": [
+   "蕾贝卡亲王"
+  ],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "哈尔滨",
+  "alias": [
+   "滨江"
+  ],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "契卡洛夫",
+  "alias": [],
+  "type": "航母",
+  "faction": "北方联合"
+ },
+ {
+  "name": "四万十",
+  "alias": [
+   "虒"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "菲利克斯·舒尔茨",
+  "alias": [
+   "弗郎西斯卡·舒伯特"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "弗兰德尔",
+  "alias": [],
+  "type": "战列",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "哈尔福德",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "大山",
+  "alias": [
+   "鳝"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "贝亚德",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "堪萨斯",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "维托里奥·库尼贝尔蒂",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "迪米特里·顿斯科伊",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "邓肯",
+  "alias": [],
+  "type": "战巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "高梁",
+  "alias": [
+   "狒"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "暴风雨",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "泛用型布里",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "其他"
+ },
+ {
+  "name": "莫里",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "查尔斯·奥斯本",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "拉菲",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "海伦娜",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "克利夫兰",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "哥伦比亚",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "休斯敦",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "印第安纳波利斯",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "阿斯托利亚",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "昆西",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "文森斯",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "威奇塔",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "亚利桑那",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "科罗拉多",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "马里兰",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "西弗吉尼亚",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "列克星敦",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "萨拉托加",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "约克城",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "大黄蜂",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "女灶神",
+  "alias": [],
+  "type": "维修",
+  "faction": "白鹰"
+ },
+ {
+  "name": "格伦维尔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "萤火虫",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "勇敢",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "敌对",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "标枪",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "吸血鬼",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "谢菲尔德",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "曼彻斯特",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "格罗斯特",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "爱丁堡",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "欧若拉",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "伦敦",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "多塞特郡",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "约克",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "埃克塞特",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "声望",
+  "alias": [],
+  "type": "战巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "伊丽莎白女王",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "纳尔逊",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "罗德尼",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "独角兽",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "鹰",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "皇家方舟",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "光荣",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "黑暗界",
+  "alias": [],
+  "type": "重炮",
+  "faction": "皇家"
+ },
+ {
+  "name": "恐怖",
+  "alias": [],
+  "type": "重炮",
+  "faction": "皇家"
+ },
+ {
+  "name": "吹雪",
+  "alias": [
+   "桐"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "白雪",
+  "alias": [
+   "杉"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "深雪",
+  "alias": [
+   "梧"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "绫波",
+  "alias": [
+   "柚"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "响",
+  "alias": [
+   "栀"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "时雨",
+  "alias": [
+   "栴"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "野分",
+  "alias": [
+   "苓"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "夕张",
+  "alias": [
+   "狐"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "名取",
+  "alias": [
+   "猽"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "由良",
+  "alias": [
+   "㹨"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "鬼怒",
+  "alias": [
+   "猤"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "最上",
+  "alias": [
+   "猨"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "三隈",
+  "alias": [
+   "狻"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "足柄",
+  "alias": [
+   "狳"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "羽黑",
+  "alias": [
+   "犰"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "金刚",
+  "alias": [
+   "鲤"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "比叡",
+  "alias": [
+   "鲟"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "榛名",
+  "alias": [
+   "鲑"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "雾岛",
+  "alias": [
+   "鳗"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "陆奥",
+  "alias": [
+   "鲛"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "凤翔",
+  "alias": [
+   "凤"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "龙骧",
+  "alias": [
+   "枭"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "苍龙",
+  "alias": [
+   "蛟"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "飞龙",
+  "alias": [
+   "龙"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "Z1",
+  "alias": [
+   "莉泽洛特"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z23",
+  "alias": [
+   "妮米"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z25",
+  "alias": [
+   "妮可"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "希佩尔海军上将",
+  "alias": [
+   "芙兰希卡"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "德意志",
+  "alias": [
+   "亚勒玛妮亚"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "斯佩伯爵海军上将",
+  "alias": [
+   "休贝塔伯爵"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "沙恩霍斯特",
+  "alias": [
+   "格尔林德"
+  ],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "格奈森瑙",
+  "alias": [
+   "奥古斯塔"
+  ],
+  "type": "战巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "鞍山",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "抚顺",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "长春",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "太原",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "逸仙",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "宁海",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "平海",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "海风",
+  "alias": [
+   "菪"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "山风",
+  "alias": [
+   "杣"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "新月",
+  "alias": [
+   "枥"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "春月",
+  "alias": [
+   "桸"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "宵月",
+  "alias": [
+   "楛"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "尼古拉斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "圣路易斯",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "神通",
+  "alias": [
+   "貎"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "阿贺野",
+  "alias": [
+   "豼"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "无敌",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "火枪手",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "丹佛",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "小贝法",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿贝克隆比",
+  "alias": [],
+  "type": "重炮",
+  "faction": "皇家"
+ },
+ {
+  "name": "伊26",
+  "alias": [
+   "双叶梦"
+  ],
+  "type": "潜艇",
+  "faction": "重樱"
+ },
+ {
+  "name": "伊58",
+  "alias": [
+   "冴矢"
+  ],
+  "type": "潜艇",
+  "faction": "重樱"
+ },
+ {
+  "name": "鲦鱼",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "U-557",
+  "alias": [
+   "优可可娜"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z35",
+  "alias": [
+   "咪菓"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "埃米尔·贝尔汀",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "絮库夫",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "敦刻尔克",
+  "alias": [],
+  "type": "战巡",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "鲁莽",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "卷波",
+  "alias": [
+   "棬"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "马拉尼",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "追赶者",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "独立",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "Z2",
+  "alias": [
+   "格尔达"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "铃谷",
+  "alias": [
+   "狺"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "小比叡",
+  "alias": [
+   "小鲟"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "小赤城",
+  "alias": [
+   "小凰"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "小齐柏林",
+  "alias": [
+   "小海拉"
+  ],
+  "type": "航母",
+  "faction": "铁血"
+ },
+ {
+  "name": "U-556",
+  "alias": [
+   "优可可洛"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "U-73",
+  "alias": [
+   "优娜米"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z36",
+  "alias": [
+   "咪露"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "小海伦娜",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "小克利夫兰",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "小圣地亚哥",
+  "alias": [
+   "小圣戴安娜"
+  ],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "倔强",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "伊25",
+  "alias": [
+   "双叶檎"
+  ],
+  "type": "潜艇",
+  "faction": "重樱"
+ },
+ {
+  "name": "伊56",
+  "alias": [
+   "冴梦"
+  ],
+  "type": "潜艇",
+  "faction": "重樱"
+ },
+ {
+  "name": "U-522",
+  "alias": [
+   "优柯妮妮"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "巴丹",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "伯明翰",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "黑太子",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "朱利奥·凯撒",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "龙骑兵",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "U-110",
+  "alias": [
+   "优伊伊丽"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "克利夫兰(μ兵装)",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "谢菲尔德(μ兵装)",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "希佩尔海军上将(μ兵装)",
+  "alias": [
+   "芙兰希卡(μ兵装)"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "霞",
+  "alias": [
+   "蕸"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "比洛克西",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "浦波",
+  "alias": [
+   "朴"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "威严",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "明斯克",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "水星纪念",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "甘古特",
+  "alias": [],
+  "type": "战列",
+  "faction": "北方联合"
+ },
+ {
+  "name": "库珀",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "蓝鳃鱼",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "花月",
+  "alias": [
+   "榵"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "长波",
+  "alias": [
+   "苌"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "小声望",
+  "alias": [],
+  "type": "战巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "塔尔图",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "拉·加利索尼埃",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "沃克兰",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "贝亚恩",
+  "alias": [],
+  "type": "航母",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "小光辉",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "爱斯基摩人",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "英勇",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "伊卡洛斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "Z26",
+  "alias": [
+   "妮露"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "熊野",
+  "alias": [
+   "猁"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "千岁",
+  "alias": [
+   "鹂"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "千代田",
+  "alias": [
+   "鹃"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "樫野",
+  "alias": [
+   "㭴"
+  ],
+  "type": "运输",
+  "faction": "重樱"
+ },
+ {
+  "name": "普林斯顿",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "大青花鱼(μ兵装)",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "巴尔的摩(μ兵装)",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "威悉",
+  "alias": [
+   "威尔玛"
+  ],
+  "type": "轻航",
+  "faction": "铁血"
+ },
+ {
+  "name": "纽伦堡",
+  "alias": [
+   "诺菈"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z24",
+  "alias": [
+   "妮丝"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z28",
+  "alias": [
+   "妮娅"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "文琴佐·焦贝蒂",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "神速",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "U-410",
+  "alias": [
+   "优斯伊丽"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "应瑞",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "肇和",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "佩内洛珀",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "雷鸣",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "摩尔曼斯克",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "洪亮",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "托里拆利",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "西北风",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "西南风",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "尼科洛索·达雷科",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "史蒂芬·波特",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "小天城",
+  "alias": [
+   "小鳐"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "博伊西",
+  "alias": [
+   "树城"
+  ],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "莫里森",
+  "alias": [
+   "赛普拉斯"
+  ],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "小企业",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "鹦鹉螺",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "马耶·布雷泽",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "福煦",
+  "alias": [],
+  "type": "重巡",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "易北",
+  "alias": [
+   "埃尔斯贝特"
+  ],
+  "type": "轻航",
+  "faction": "铁血"
+ },
+ {
+  "name": "U-1206",
+  "alias": [
+   "优伊妮欧露"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "海天",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "海圻",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "镇海",
+  "alias": [],
+  "type": "轻航",
+  "faction": "东煌"
+ },
+ {
+  "name": "阿尔汉格尔斯克",
+  "alias": [],
+  "type": "战列",
+  "faction": "北方联合"
+ },
+ {
+  "name": "灵敏",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "的里雅斯特",
+  "alias": [],
+  "type": "重巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "图林根",
+  "alias": [
+   "特鲁德"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "约克",
+  "alias": [
+   "伊冯娜"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "埃尔宾",
+  "alias": [
+   "埃尔薇菈"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "小欧根",
+  "alias": [
+   "小萨沃伊"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "司战女神",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "小柴郡",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "复仇",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "进取",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "博尔扎诺",
+  "alias": [],
+  "type": "重巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "阿尔弗雷多·奥里亚尼",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "埃曼努埃尔·佩萨格诺",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "Z16",
+  "alias": [
+   "弗蕾德贡"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "小斯佩",
+  "alias": [
+   "小休贝塔"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "兰利II",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "哈曼II",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "华甲",
+  "alias": [],
+  "type": "轻航",
+  "faction": "东煌"
+ },
+ {
+  "name": "定安",
+  "alias": [],
+  "type": "运输",
+  "faction": "东煌"
+ },
+ {
+  "name": "百眼巨人",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "英雄",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "塞瓦斯托波尔",
+  "alias": [],
+  "type": "战列",
+  "faction": "北方联合"
+ },
+ {
+  "name": "小可畏",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "亚德",
+  "alias": [
+   "阿黛尔"
+  ],
+  "type": "轻航",
+  "faction": "铁血"
+ },
+ {
+  "name": "小大凤",
+  "alias": [
+   "小鹩"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "安德烈亚·多利亚",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "絮弗伦",
+  "alias": [],
+  "type": "重巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "凯尔圣",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "里昂",
+  "alias": [],
+  "type": "战列",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "朝凪",
+  "alias": [
+   "桎"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "加里冒险号",
+  "alias": [],
+  "type": "风帆V",
+  "faction": "飓风"
+ },
+ {
+  "name": "维达号",
+  "alias": [],
+  "type": "风帆S",
+  "faction": "飓风"
+ },
+ {
+  "name": "圣哈辛托",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "路易斯维尔",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "济安",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "龙武",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "虎贲",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "飞云",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "凶猛",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "北方联合"
+ },
+ {
+  "name": "波尔塔瓦",
+  "alias": [],
+  "type": "战列",
+  "faction": "北方联合"
+ },
+ {
+  "name": "利物浦",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "德文郡",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "金刚(μ兵装)",
+  "alias": [
+   "鲤(μ兵装)"
+  ],
+  "type": "战巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "鲁莽(μ兵装)",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "博伊西(μ兵装)",
+  "alias": [
+   "树城(μ兵装)"
+  ],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "小信浓",
+  "alias": [
+   "小鵗"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "花剑",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "重剑",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "小腓特烈",
+  "alias": [
+   "小腓德雷卡"
+  ],
+  "type": "战列",
+  "faction": "铁血"
+ },
+ {
+  "name": "U-31",
+  "alias": [
+   "优咪伊"
+  ],
+  "type": "潜艇",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z43",
+  "alias": [
+   "希咪"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "迪普莱克斯",
+  "alias": [],
+  "type": "重巡",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "鲱鱼",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "白鹰"
+ },
+ {
+  "name": "贝尔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "绫濑",
+  "alias": [
+   "狑"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "凉波",
+  "alias": [
+   "椋"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "朴茨茅斯冒险号",
+  "alias": [],
+  "type": "风帆V",
+  "faction": "飓风"
+ },
+ {
+  "name": "海豚号",
+  "alias": [],
+  "type": "风帆S",
+  "faction": "飓风"
+ },
+ {
+  "name": "Z9",
+  "alias": [
+   "沃尔普加"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z11",
+  "alias": [
+   "伯莎"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "海容",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "长风",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "伏波",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "焦苏埃·卡尔杜齐",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "巴托洛梅奥·科莱奥尼",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "米勒",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "埃佛森",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "郁金王国"
+ },
+ {
+  "name": "奥列格",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "勇气",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "特立尼达",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "小安克雷奇",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "Z13",
+  "alias": [
+   "埃丝特"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "小埃吉尔",
+  "alias": [
+   "小埃格妮丝"
+  ],
+  "type": "超巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "迪凯纳",
+  "alias": [],
+  "type": "重巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "迪盖·特鲁因",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "妙风",
+  "alias": [
+   "杪"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "水无濑",
+  "alias": [
+   "鼯"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "皇家詹姆斯号",
+  "alias": [],
+  "type": "风帆V",
+  "faction": "飓风"
+ },
+ {
+  "name": "冒险号",
+  "alias": [],
+  "type": "风帆S",
+  "faction": "飓风"
+ },
+ {
+  "name": "克拉伦斯·K·布朗森",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "帕萨迪纳",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "阿尔贝托·迪·朱塞诺",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "乌戈里诺·维瓦尔迪",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "海筹",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "红色山脉",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "博加特里",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "木津",
+  "alias": [
+   "貘"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "名寄",
+  "alias": [
+   "貀"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "小武藏",
+  "alias": [
+   "小鳄"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "Z14",
+  "alias": [
+   "弗蕾娜"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z15",
+  "alias": [
+   "埃丽莎"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "小云仙",
+  "alias": [
+   "小猃"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "无惧",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "格里芬",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "哈里森",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "约翰·罗杰斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "匆忙",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "长蛇号",
+  "alias": [],
+  "type": "风帆V",
+  "faction": "飓风"
+ },
+ {
+  "name": "雷伊尔·贝号",
+  "alias": [],
+  "type": "风帆M",
+  "faction": "飓风"
+ },
+ {
+  "name": "涅普顿",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "海王星"
+ },
+ {
+  "name": "诺瓦露",
+  "alias": [],
+  "type": "重巡",
+  "faction": "海王星"
+ },
+ {
+  "name": "布兰",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "海王星"
+ },
+ {
+  "name": "贝露",
+  "alias": [],
+  "type": "航母",
+  "faction": "海王星"
+ },
+ {
+  "name": "22",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "哔哩哔哩"
+ },
+ {
+  "name": "33",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "哔哩哔哩"
+ },
+ {
+  "name": "乌璐露",
+  "alias": [],
+  "type": "轻航",
+  "faction": "传颂之物"
+ },
+ {
+  "name": "萨拉娜",
+  "alias": [],
+  "type": "轻航",
+  "faction": "传颂之物"
+ },
+ {
+  "name": "芙米露露",
+  "alias": [],
+  "type": "航母",
+  "faction": "传颂之物"
+ },
+ {
+  "name": "绊爱",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "KizunaAI"
+ },
+ {
+  "name": "凪咲",
+  "alias": [],
+  "type": "战列",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "女天狗",
+  "alias": [],
+  "type": "航母",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "莫妮卡",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "维纳斯假期"
+ },
+ {
+  "name": "秋月律子",
+  "alias": [],
+  "type": "运输",
+  "faction": "偶像大师"
+ },
+ {
+  "name": "双海亚美",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "偶像大师"
+ },
+ {
+  "name": "双海真美",
+  "alias": [],
+  "type": "潜艇",
+  "faction": "偶像大师"
+ },
+ {
+  "name": "莲",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "SSSS"
+ },
+ {
+  "name": "奈美子",
+  "alias": [],
+  "type": "重巡",
+  "faction": "SSSS"
+ },
+ {
+  "name": "貉",
+  "alias": [],
+  "type": "战列",
+  "faction": "SSSS"
+ },
+ {
+  "name": "莉拉·德西亚斯",
+  "alias": [],
+  "type": "重巡",
+  "faction": "Atelier Ryza"
+ },
+ {
+  "name": "赛莉·古劳斯",
+  "alias": [],
+  "type": "航母",
+  "faction": "Atelier Ryza"
+ },
+ {
+  "name": "紫",
+  "alias": [],
+  "type": "轻航",
+  "faction": "闪乱神乐NL"
+ },
+ {
+  "name": "夕烧",
+  "alias": [],
+  "type": "重巡",
+  "faction": "闪乱神乐NL"
+ },
+ {
+  "name": "西连寺春菜",
+  "alias": [],
+  "type": "战巡",
+  "faction": "To LOVE-Ru"
+ },
+ {
+  "name": "古手川唯",
+  "alias": [],
+  "type": "航母",
+  "faction": "To LOVE-Ru"
+ },
+ {
+  "name": "扶桑·META",
+  "alias": [
+   "魟·META"
+  ],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "飞鹰·META",
+  "alias": [
+   "鸱·META"
+  ],
+  "type": "轻航",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "隼鹰·META",
+  "alias": [
+   "鸢·META"
+  ],
+  "type": "轻航",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "山城·META",
+  "alias": [
+   "鲼·META"
+  ],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "孟菲斯·META",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "特伦托·META",
+  "alias": [],
+  "type": "重巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "猎人·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "命运女神·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "谢菲尔德·META",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "拉·加利索尼埃·META",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "女灶神·META",
+  "alias": [],
+  "type": "维修",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "旗风·META",
+  "alias": [
+   "樋·META"
+  ],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "普林斯顿·META",
+  "alias": [],
+  "type": "轻航",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "黑暗界·META",
+  "alias": [],
+  "type": "重炮",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "金伯利·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "吸血鬼·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "福煦·META",
+  "alias": [],
+  "type": "重巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "霞·META",
+  "alias": [
+   "蕸·META"
+  ],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "凤翔·META",
+  "alias": [
+   "凤·META"
+  ],
+  "type": "轻航",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "朱利奥·凯撒·META",
+  "alias": [],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "博尔扎诺·META",
+  "alias": [],
+  "type": "重巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "内华达·META",
+  "alias": [],
+  "type": "战列",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "格伦维尔·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "敦刻尔克·META",
+  "alias": [],
+  "type": "战巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "杜威·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "博伊西·META",
+  "alias": [
+   "树城·META"
+  ],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "龙骑兵·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "科隆·META",
+  "alias": [
+   "克劳迪亚·META"
+  ],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "柯尼斯堡·META",
+  "alias": [
+   "阿尔伯缇娜·META"
+  ],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "纽伦堡·META",
+  "alias": [
+   "诺菈·META"
+  ],
+  "type": "轻巡",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "灵敏·META",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "META-???,其他"
+ },
+ {
+  "name": "杜威",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "格里德利",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "弗莱彻",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "撒切尔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "本森",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "西姆斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "哈曼",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "布鲁克林",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "菲尼克斯",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "亚特兰大",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "朱诺",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "北安普敦",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "芝加哥",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "波特兰",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "宾夕法尼亚",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "田纳西",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "加利福尼亚",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "长岛",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "胡蜂",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "女将",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿卡司塔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "热心",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "命运女神",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "猎人",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "天后",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿基里斯",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿贾克斯",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "南安普顿",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿瑞托莎",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "加拉蒂亚",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "什罗普郡",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "肯特",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "萨福克",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "诺福克",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "反击",
+  "alias": [],
+  "type": "战巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "晓",
+  "alias": [
+   "枫"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "雷",
+  "alias": [
+   "梓"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "电",
+  "alias": [
+   "柏"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "白露",
+  "alias": [
+   "梿"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "阳炎",
+  "alias": [
+   "萩"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "初春",
+  "alias": [
+   "梅"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "若叶",
+  "alias": [
+   "楉"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "初霜",
+  "alias": [
+   "檨"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "有明",
+  "alias": [
+   "榎"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "夕暮",
+  "alias": [
+   "棭"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "黑潮",
+  "alias": [
+   "蓉"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "亲潮",
+  "alias": [
+   "藮"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "五十铃",
+  "alias": [
+   "貉"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "妙高",
+  "alias": [
+   "獌"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "那智",
+  "alias": [
+   "狏"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "扶桑",
+  "alias": [
+   "魟"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "山城",
+  "alias": [
+   "鲼"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "伊势",
+  "alias": [
+   "鳌"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "日向",
+  "alias": [
+   "螯"
+  ],
+  "type": "战列",
+  "faction": "重樱"
+ },
+ {
+  "name": "飞鹰",
+  "alias": [
+   "鸱"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "隼鹰",
+  "alias": [
+   "鸢"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "祥凤",
+  "alias": [
+   "鹞"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "莱比锡",
+  "alias": [
+   "莉普莎"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "贝利",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "Z19",
+  "alias": [
+   "赫尔米娜"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "神风",
+  "alias": [
+   "榊"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "松风",
+  "alias": [
+   "棡"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "文月",
+  "alias": [
+   "橗"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "长月",
+  "alias": [
+   "枨"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "清波",
+  "alias": [
+   "棈"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "拉德福特",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "杰金斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "火奴鲁鲁",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "丘比特",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "泽西",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "川内",
+  "alias": [
+   "貆"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "那珂",
+  "alias": [
+   "豻"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "浦风",
+  "alias": [
+   "槆"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "矶风",
+  "alias": [
+   "柉"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "滨风",
+  "alias": [
+   "樇"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "谷风",
+  "alias": [
+   "栭"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "斐济",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "牙买加",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "朝潮",
+  "alias": [
+   "棹"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "大潮",
+  "alias": [
+   "荙"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "满潮",
+  "alias": [
+   "樠"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "荒潮",
+  "alias": [
+   "栘"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "苏塞克斯",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "Z18",
+  "alias": [
+   "汉娜"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "福尔班",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "勒马尔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "布什",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "孟菲斯",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "纽卡斯尔",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "霍比",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "科尔克",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "黑泽伍德",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "康克德",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "旗风",
+  "alias": [
+   "樋"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "库拉索",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "杓鹬",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "金伯利",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "回声",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "圣胡安",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "艾尔温",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "贝奇",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "斯坦利",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "加富尔伯爵",
+  "alias": [],
+  "type": "战列",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "特伦托",
+  "alias": [],
+  "type": "重巡",
+  "faction": "撒丁帝国"
+ },
+ {
+  "name": "斯莫利",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "格拉斯哥",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "哈尔西·鲍威尔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "卡萨布兰卡",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "马布尔黑德",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "追风",
+  "alias": [
+   "椎"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "卡辛",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "唐斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "克雷文",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "麦考尔",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "奥利克",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "富特",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "斯彭斯",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "奥马哈",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "罗利",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "彭萨科拉",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "盐湖城",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "内华达",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "俄克拉荷马",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "博格",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "兰利",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "突击者",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "小猎兔犬",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "大斗犬",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "彗星",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "新月",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "小天鹅",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "狐提",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "利安得",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "竞技神",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "不知火",
+  "alias": [
+   "蒲"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "长良",
+  "alias": [
+   "貊"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "阿武隈",
+  "alias": [
+   "貃"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "古鹰",
+  "alias": [
+   "狼"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "加古",
+  "alias": [
+   "狌"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "青叶",
+  "alias": [
+   "犹"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "衣笠",
+  "alias": [
+   "猅"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "柯尼斯堡",
+  "alias": [
+   "阿尔伯缇娜"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "卡尔斯鲁厄",
+  "alias": [
+   "夏璐尔"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "科隆",
+  "alias": [
+   "克劳迪亚"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z20",
+  "alias": [
+   "卡洛琳"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z21",
+  "alias": [
+   "威尔赫米娜"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "睦月",
+  "alias": [
+   "松"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "如月",
+  "alias": [
+   "樟"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "卯月",
+  "alias": [
+   "楙"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "水无月",
+  "alias": [
+   "杌"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "三日月",
+  "alias": [
+   "檧"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "里士满",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "埃尔德里奇.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "圣地亚哥.改",
+  "alias": [
+   "圣戴安娜.改"
+  ],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "贝尔法斯特.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "厌战.改",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "夕立.改",
+  "alias": [
+   "椿.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "埃塞克斯.改",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "莫里.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "查尔斯·奥斯本.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "拉菲.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "海伦娜.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "科罗拉多.改",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "马里兰.改",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "西弗吉尼亚.改",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "萨拉托加.改",
+  "alias": [],
+  "type": "航母",
+  "faction": "白鹰"
+ },
+ {
+  "name": "萤火虫.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "勇敢.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "标枪.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "伦敦.改",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "约克.改",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "埃克塞特.改",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "纳尔逊.改",
+  "alias": [],
+  "type": "战列",
+  "faction": "皇家"
+ },
+ {
+  "name": "独角兽.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "皇家方舟.改",
+  "alias": [],
+  "type": "航母",
+  "faction": "皇家"
+ },
+ {
+  "name": "绫波.改",
+  "alias": [
+   "柚.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "时雨.改",
+  "alias": [
+   "栴.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "夕张.改",
+  "alias": [
+   "狐.改"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "鬼怒.改",
+  "alias": [
+   "猤.改"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "最上.改",
+  "alias": [
+   "猨.改"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "苍龙.改",
+  "alias": [
+   "蛟.改"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "飞龙.改",
+  "alias": [
+   "龙.改"
+  ],
+  "type": "航母",
+  "faction": "重樱"
+ },
+ {
+  "name": "Z1.改",
+  "alias": [
+   "莉泽洛特.改"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "Z23.改",
+  "alias": [
+   "妮米.改"
+  ],
+  "type": "驱逐",
+  "faction": "铁血"
+ },
+ {
+  "name": "希佩尔海军上将.改",
+  "alias": [
+   "芙兰希卡.改"
+  ],
+  "type": "重巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "鞍山.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "抚顺.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "长春.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "太原.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "东煌"
+ },
+ {
+  "name": "逸仙.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "宁海.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "平海.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "尼古拉斯.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "神通.改",
+  "alias": [
+   "貎.改"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "埃米尔·贝尔汀.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "独立.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "霞.改",
+  "alias": [
+   "蕸.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "水星纪念.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "北方联合"
+ },
+ {
+  "name": "应瑞.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "肇和.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "东煌"
+ },
+ {
+  "name": "镇海.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "东煌"
+ },
+ {
+  "name": "华甲.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "东煌"
+ },
+ {
+  "name": "西姆斯.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "哈曼.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "朱诺.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "波特兰.改",
+  "alias": [],
+  "type": "重巡",
+  "faction": "白鹰"
+ },
+ {
+  "name": "长岛.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "女将.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿卡司塔.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "热心.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "命运女神.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿基里斯.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "阿贾克斯.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "什罗普郡.改",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "萨福克.改",
+  "alias": [],
+  "type": "重巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "白露.改",
+  "alias": [
+   "梿.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "阳炎.改",
+  "alias": [
+   "萩.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "初春.改",
+  "alias": [
+   "梅.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "初霜.改",
+  "alias": [
+   "檨.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "有明.改",
+  "alias": [
+   "榎.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "夕暮.改",
+  "alias": [
+   "棭.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "五十铃.改",
+  "alias": [
+   "貉.改"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "那智.改",
+  "alias": [
+   "狏.改"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "扶桑.改",
+  "alias": [
+   "魟.改"
+  ],
+  "type": "航战",
+  "faction": "重樱"
+ },
+ {
+  "name": "山城.改",
+  "alias": [
+   "鲼.改"
+  ],
+  "type": "航战",
+  "faction": "重樱"
+ },
+ {
+  "name": "伊势.改",
+  "alias": [
+   "鳌.改"
+  ],
+  "type": "航战",
+  "faction": "重樱"
+ },
+ {
+  "name": "日向.改",
+  "alias": [
+   "螯.改"
+  ],
+  "type": "航战",
+  "faction": "重樱"
+ },
+ {
+  "name": "祥凤.改",
+  "alias": [
+   "鹞.改"
+  ],
+  "type": "轻航",
+  "faction": "重樱"
+ },
+ {
+  "name": "莱比锡.改",
+  "alias": [
+   "莉普莎.改"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "贝利.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "神风.改",
+  "alias": [
+   "榊.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "松风.改",
+  "alias": [
+   "棡.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "川内.改",
+  "alias": [
+   "貆.改"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "滨风.改",
+  "alias": [
+   "樇.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "谷风.改",
+  "alias": [
+   "栭.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "福尔班.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "自由鸢尾"
+ },
+ {
+  "name": "勒马尔.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "维希教廷"
+ },
+ {
+  "name": "纽卡斯尔.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "库拉索.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "杓鹬.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "卡辛.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "唐斯.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "白鹰"
+ },
+ {
+  "name": "内华达.改",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "俄克拉荷马.改",
+  "alias": [],
+  "type": "战列",
+  "faction": "白鹰"
+ },
+ {
+  "name": "博格.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "兰利.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "突击者.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "白鹰"
+ },
+ {
+  "name": "彗星.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "新月.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "小天鹅.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "狐提.改",
+  "alias": [],
+  "type": "驱逐",
+  "faction": "皇家"
+ },
+ {
+  "name": "利安得.改",
+  "alias": [],
+  "type": "轻巡",
+  "faction": "皇家"
+ },
+ {
+  "name": "竞技神.改",
+  "alias": [],
+  "type": "轻航",
+  "faction": "皇家"
+ },
+ {
+  "name": "不知火.改",
+  "alias": [
+   "蒲.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "阿武隈.改",
+  "alias": [
+   "貃.改"
+  ],
+  "type": "轻巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "古鹰.改",
+  "alias": [
+   "狼.改"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "加古.改",
+  "alias": [
+   "狌.改"
+  ],
+  "type": "重巡",
+  "faction": "重樱"
+ },
+ {
+  "name": "卡尔斯鲁厄.改",
+  "alias": [
+   "夏璐尔.改"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "科隆.改",
+  "alias": [
+   "克劳迪亚.改"
+  ],
+  "type": "轻巡",
+  "faction": "铁血"
+ },
+ {
+  "name": "睦月.改",
+  "alias": [
+   "松.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ },
+ {
+  "name": "如月.改",
+  "alias": [
+   "樟.改"
+  ],
+  "type": "驱逐",
+  "faction": "重樱"
+ }
+]

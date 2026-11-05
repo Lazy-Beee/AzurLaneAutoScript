@@ -5,6 +5,7 @@ Usage, at ALAS root folder:
     python -m module.dock_statistics
     python -m module.dock_statistics --config alas --category dd cl --limit 5
     python -m module.dock_statistics --reread ../AzurLaneDock/20261105_101010
+    python -m module.dock_statistics --update-names
 """
 import argparse
 
@@ -22,9 +23,15 @@ parser.add_argument('--reread', default=None, metavar='FOLDER',
                     help='Read results again from images archived in a previous run, no emulator needed')
 parser.add_argument('--start-game', action='store_true',
                     help='Restart the game and login first, retry every 20min for 6 times if server is down')
+parser.add_argument('--update-names', action='store_true',
+                    help='Download official ship names from BWIKI, used to fix ship names from OCR')
 args = parser.parse_args()
 
-if args.reread:
+if args.update_names:
+    from module.dock_statistics.ship_names import update_ship_names
+
+    print(f'{len(update_ship_names())} ship names saved')
+elif args.reread:
     DockStatistics.reread(args.reread)
 else:
     DockStatistics(config=args.config, task='Alas').run(
